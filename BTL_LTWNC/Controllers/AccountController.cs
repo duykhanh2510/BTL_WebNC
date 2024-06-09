@@ -86,8 +86,8 @@ namespace BTL_LTWNC.Controllers
                 HttpContext.Session.SetInt32("Role", user.iUserRoleID);
                 if (user.iUserRoleID == 1)
                 {
-                    //return Redirect("/admin/");
-                    return RedirectToAction("Index", "Home");
+                    return Redirect("/admin/");
+                    //return RedirectToAction("Index", "Home");
                 }
                 else
                 {

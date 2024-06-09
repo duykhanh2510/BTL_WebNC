@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\BTL_WebNC THi\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {}
+    "G:\\Java\\BTL_WebNC THi-20240521T152846Z-001\\BTL_WebNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\BTL_WebNC THi\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {
+    "G:\\Java\\BTL_WebNC THi-20240521T152846Z-001\\BTL_WebNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\BTL_WebNC THi\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
+        "projectUniqueName": "G:\\Java\\BTL_WebNC THi-20240521T152846Z-001\\BTL_WebNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
         "projectName": "BTL_LTWNC",
-        "projectPath": "C:\\Users\\PC\\Documents\\BTL_WebNC THi\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\BTL_WebNC THi\\BTL_LTWNC\\BTL_LTWNC\\obj\\",
+        "projectPath": "G:\\Java\\BTL_WebNC THi-20240521T152846Z-001\\BTL_WebNC\\BTL_LTWNC\\BTL_LTWNC\\BTL_LTWNC.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "G:\\Java\\BTL_WebNC THi-20240521T152846Z-001\\BTL_WebNC\\BTL_LTWNC\\BTL_LTWNC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
